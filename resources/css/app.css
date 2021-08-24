@@ -1,0 +1,36 @@
+.avatar {
+    display: flex;
+    justify-content: center;
+}
+.avatar img {
+    width: 200px;
+    border-radius: 50%;
+    position: center;
+    height: auto;
+}
+nav, h1 {
+    text-align: center;
+}
+h2 {
+    color: #0DC5D7;
+    text-align: center;
+}
+.formation, .experience, .contact {
+    padding: 2.5%;
+}
+span {
+    height: 20px;
+}
+.premiere_gale .period, .badblock .period, .simplon_stage .period {
+    color: #817E7F;
+}
+.contact a {
+    color: #000000;
+}
+footer {
+    background-color: #000000;
+    color: #ffffff;
+}
+.container {
+    width: 100vh;
+}
